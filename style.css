@@ -11,6 +11,18 @@ a:visited{
     color:#DC8BA9;
 }
 
+h1 {
+    font-size: 250%;
+}
+
+h2 {
+    font-size: 200%;
+}
+
+p {
+    font-size: 100%;
+}
+
 .nav ul{
     list-style: none
     background-color:#AC8336;
