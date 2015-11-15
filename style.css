@@ -11,6 +11,7 @@ a:link{
 
 a:visited{
     color:#DC8BA9;
+    text-decoration: none
     font-family: "Lucida Bright", serif;
 }
 
@@ -59,6 +60,7 @@ p {
 .nav li{
     font-family: "Rockwell", serif;
     display: inline-block;
+    line-height:40px
     height: 40px;
     width: 120px;
     border-bottom: none;
