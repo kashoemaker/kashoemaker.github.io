@@ -54,6 +54,11 @@ p {
     border-bottom: none;
 }
 
+ol{
+    font-family: "Rockwell", serif;
+    text-align: center;
+}
+
 .nav a{
     text-decoration: none;
     display: block;
