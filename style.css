@@ -13,7 +13,7 @@ a:visited{
 
 .nav ul{
     list-style: none
-    background-color:#FDFEAA
+    background-color:#FDFEAA;
     text-align: center;
     padding: 0;
     margin: 0;
@@ -30,5 +30,5 @@ a:visited{
 .nav a{
     text-decoration: none;
     display: block;
-    color:#DE94AF
+    color:#DE94AF;
 }
