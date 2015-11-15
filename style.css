@@ -5,6 +5,7 @@ body{
 
 a:link{
     color:#AA7F39;
+    text-align: left;
 }
 
 a:visited{
@@ -43,7 +44,7 @@ p {
 }
 
 .nav li{
-    font-family: "Veranda", sans-serif;
+    font-family: "Rockwell", serif;
     display: inline-block;
     height: 40px;
     width: 120px;
