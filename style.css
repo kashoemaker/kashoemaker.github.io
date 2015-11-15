@@ -11,12 +11,17 @@ a:visited{
     color:#DC8BA9;
 }
 
+title{font-family: "Rockwell", serif;
+}
+
 h1 {
     font-size: 250%;
+    font-family: "Rockwell", serif;
 }
 
 h2 {
     font-size: 200%;
+    font-family: "Rockwell", serif;
 }
 
 p {
