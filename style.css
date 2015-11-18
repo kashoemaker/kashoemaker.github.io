@@ -57,6 +57,8 @@ p {
     margin: 0;
 }
 
+ <h1 style="color:blue">This is a Blue Heading</h1>
+
 .nav li{
     font-family: "Rockwell", serif;
     display: inline-block;
