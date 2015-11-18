@@ -50,14 +50,12 @@ p {
 
 .nav ul{
     list-style: none
-    background-color:#FFEE00;
+    background-color:
     font-family: "Lucida Bright", serif;
     text-align: center;
     padding: 0;
     margin: 0;
-
     background-color: lavender;
-
     border: solid 1px silver;
 
 }
